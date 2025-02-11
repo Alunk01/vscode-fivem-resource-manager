@@ -21,7 +21,7 @@
 
 FiveM Resource Manager is a Visual Studio Code extension that integrates a FiveM Resource Manager - Easily restart any resource on your server
 
-![Website](https://s6.gifyu.com/images/S4OFK.gif)
+![Showcase](https://i.imgur.com/WJ7jF2b.gif)
 
 ## More Information
 
